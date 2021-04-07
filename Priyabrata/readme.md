@@ -1,1 +1,2 @@
-### I have did some changes
+### I am Priyabrata Naskar
+I do android development with Java
